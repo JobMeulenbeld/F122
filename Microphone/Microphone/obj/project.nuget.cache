@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVBA76ng4SnB/Ca27e5e34xrzNkL0mZvq8OiA9pLL06Y3GGe8Dva719+JCwDeDdbtX399YEaV09EWczyQ90IPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meule\\source\\repos\\F122\\Microphone\\Microphone\\Microphone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meule\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
