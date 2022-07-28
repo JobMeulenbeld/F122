@@ -87,10 +87,10 @@ namespace Speech
                     synthesizer.Speak("Allright we'll be ready, watch the speed limit in the pitlane!");
                     break;
                 case Engineer_name + " gap":
-                    synthesizer.Speak("gap in front 2.1, gap behind 4.3");
+                    synthesizer.Speak("Gap in front 2.1, gap behind 4.3");
                     break;
-                default: 
-                    Console.WriteLine("Unhandled input");
+                default:
+                    synthesizer.Speak("Sorry did not catch that, please repeat");
                     break;
             }
             
